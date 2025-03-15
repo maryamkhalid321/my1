@@ -1,0 +1,4 @@
+New data written in 'r+' mode.
+
+This line is added in 'append' mode.
+Data added in 'a+' mode.
